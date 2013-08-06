@@ -3,8 +3,4 @@ Practicing with git-flow.
 This is my login work.
   stuff
 
-
-
-
-
-BLAHAPLAJLKAJLAJLJA! - Ben-is-awesome.
+Wow, Ben is super awesome
